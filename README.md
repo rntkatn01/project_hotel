@@ -31,45 +31,45 @@ MySQL·Mybatis
 <br/> 
 <br/> 
 <br/> 
-![이미지 설명](fourseason/fourseason_1.png)
+![이미지 설명](img/1.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_2.png)
+![이미지 설명](img/2.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_3.png)
+![이미지 설명](img/3.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_4.png)
+![이미지 설명](img/4.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_5.png)
+![이미지 설명](img/5.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_6.png)
+![이미지 설명](img/6.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_7.png)
+![이미지 설명](img/7.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_8.png)
+![이미지 설명](img/8.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_9.png)
+![이미지 설명](img/9.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_10.png)
+![이미지 설명](img/10.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_11.png)
+![이미지 설명](img/11.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_12.png)
+![이미지 설명](img/12.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_13.png)
+![이미지 설명](img/13.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_14.png)
+![이미지 설명](img/14.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_15.png)
-<br/> <br/> 
-![이미지 설명](fourseason/fourseason_16.png)
+![이미지 설명](img/15.png)
+<br/>
+![이미지 설명](img/16.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_17.png)
+![이미지 설명](img/17.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_18.png)
+![이미지 설명](img/18.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_19.png)
+![이미지 설명](img/19.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_20.png)
+![이미지 설명](img/20.png)
 <br/> 
-![이미지 설명](fourseason/fourseason_21.png)
+![이미지 설명](img/21.png)
 
