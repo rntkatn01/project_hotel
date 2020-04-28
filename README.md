@@ -11,12 +11,13 @@
 
 전체적으로 숫자계산이 많고, 계산이 중요한 프로젝트였습니다. 
 <br/>
+datetimepicker를 이용해 날짜를 표시하였습니다.
+<br/>
 관리자가 평일 / 주말 또는 지정한 날짜에 객실 가격을 설정할 수 있게 했고, 
 <br/>
-따라서 날짜에 따라 방 가격의 평균 값을 내어 표시하였습니다. 
+날짜에 따라 방 가격의 평균 값을 내어 표시하였습니다. 
 <br/>
-단순한 기능의 소개페이지이므로 깔끔한 디자인에 집중하였습니다.
-
+관리자가 사용할 수 있는 매출정보, 예약정보 또한 보기쉽게 구현하려 노력했습니다.
 <br/>
 무료 템플릿을 사용하였습니다.
 <br/>
@@ -33,7 +34,8 @@ Javascript·Ajax·JQuery
 <br/>
 MySQL·Mybatis
 <br/> 
-GoogleMap
+GoogleMap·stella.js
+JavaMail·popper.js·datetimepicker.js
 <br/> 
 <br/> 
 <br/> 
